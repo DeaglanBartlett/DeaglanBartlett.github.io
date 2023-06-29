@@ -65,10 +65,17 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
+**Graduate Teaching and Research Scholar** - Oriel College, University of Oxford (2020-2022)
+* Courses tutored:
+  * A3 Quantum Physics (2\textsuperscript{nd} year Physics).
+  * B4 Nuclear and Particle Physics (3\textsuperscript{rd} year Physics).
+* Ran tutorials, marked problem sheets, set and marked mock examinations.
+* Jointly ran mathematical interview for selection of undergraduate students in Physics and Physics and Philosophy. Wrote and delivered questions for these interviews and assessed candidates' performance.
+
+**British Team Coach** - British Physics Olympiad (2017-present)
+* Led sessions on a variety of topics. Planning content, writing questions and creating resources.
+* No student has failed to achieve a medal during the years I have been involved with the team.
 
 Service
 ======
