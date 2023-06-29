@@ -5,9 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=wTj4UjSjpBkC&hl=en)
+or [arXiv](https://arxiv.org/a/bartlett_d_1.html) profiles.
 
 {% include base_path %}
 
