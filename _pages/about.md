@@ -10,4 +10,6 @@ redirect_from:
 
 This is Dr. Deaglan Bartlett's home on the web!
 
+This website is under construction. Please come back later!
+
 Lorem ipsum.
