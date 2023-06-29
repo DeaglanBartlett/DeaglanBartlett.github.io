@@ -68,8 +68,8 @@ Teaching
 
 **Graduate Teaching and Research Scholar** - Oriel College, University of Oxford (2020-2022)
 * Courses tutored:
-  * A3 Quantum Physics (2\textsuperscript{nd} year Physics).
-  * B4 Nuclear and Particle Physics (3\textsuperscript{rd} year Physics).
+  * A3 Quantum Physics (2nd year Physics).
+  * B4 Nuclear and Particle Physics (3rd year Physics).
 * Ran tutorials, marked problem sheets, set and marked mock examinations.
 * Jointly ran mathematical interview for selection of undergraduate students in Physics and Physics and Philosophy. Wrote and delivered questions for these interviews and assessed candidates' performance.
 
