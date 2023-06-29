@@ -9,25 +9,47 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interests
+======
+
+Cosmology;
+statistical and machine learning methodology in astrophysics and cosmology;
+Bayesian large-scale structure inference;
+field-level inference;
+symbolic regression;
+dark matter;
+dark energy;
+galaxy formation;
+astrophysical tests of fundamental physics;
+modified gravity;
+cosmological hydrodynamical simulations.
+
+Employment
+======
+
+* Postdoctoral Fellow, CNRS & Sorbonne Université, Institut d’Astrophysique de Paris, 2022-Present
+* Covid Response Officer, Oriel College, University of Oxford, 2021-2022
+* Graduate Teaching and Research Scholar, Oriel College, University of Oxford, 2020-2022
+
 Education
 ======
-* MA, MSci in Natural Sciences, University of Cambridge (Trinity College), 2019
-* DPhil in Astrophysics, University of Oxford (Oriel College), 2022
 
-Work experience
+* DPhil in Astrophysics, Oriel College, University of Oxford 2019-2022
+  * Thesis: Fundamental Physics from Galaxies
+  * Supervisors: Prof. Pedro Ferreira and Dr. Harry Desmond
+* MA, MSci in Natural Sciences, Trinity College, University of Cambridge, 2015-2019
+  * Results: Class 1, 86.2%, Rank 3/92
+  * Thesis: The conformal boundary at the end of the universe
+  * Supervisor: Dr. Will Handley
+
+
+Awards and Scholarships
 ======
-* Test
-  * Some duties
-  * More duties
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Graduate Teaching and Research Scholar, Oriel College, Oxford 2020--2022
+* Senior Scholar, Trinity College, Cambridge 2016--19
+* Bronze Medal, 46th International Physics Olympiad, Mumbai 2015
+* Exceptional mathematical performance, British Physics Olympiad 2015
 
 Publications
 ======
@@ -46,7 +68,11 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+
+Collaborations
 ======
-* Some detail here
+
+* [Learning the Universe](https://www.learning-the-universe.org/) 2022-Present
+* [Aquila Consortium](https://www.aquila-consortium.org/) 2021-Present
+  
