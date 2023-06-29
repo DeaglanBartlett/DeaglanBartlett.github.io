@@ -10,6 +10,8 @@ permalink: /blog/
 <link rel="stylesheet" href="{{"/css/posts.css" | relative_url}}">
 
 <div id="main" role="main">
+{% include sidebar.html %}
+
 {% for post in site.posts %}
   <div class="post-row">
     <div class="post-row-image">
