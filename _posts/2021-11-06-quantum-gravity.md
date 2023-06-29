@@ -1,6 +1,8 @@
 ---
 title: Is the speed of light energy dependent?
-categories: method/observations
+categories:
+  - method
+  - observations
 authors:
   - D. Bartlett
 image_path: /assets/posts/quantum_gravity/fluctuation_plot.png
