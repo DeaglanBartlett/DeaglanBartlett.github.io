@@ -70,9 +70,11 @@ Teaching
   {% endfor %}</ul>
 
 
-Collaborations
+Service
 ======
 
+Collaborations
+* Referee for ApJ, IEEE, JCAP, PRL, The Open Journal of Astrophysics
 * [Learning the Universe](https://www.learning-the-universe.org/) 2022-Present
 * [Aquila Consortium](https://www.aquila-consortium.org/) 2021-Present
   
