@@ -1,28 +1,26 @@
 ---
 title: Is the speed of light energy dependent?
-layout: page
 categories: method/observations
 authors:
   - D. Bartlett
 image_path: /assets/posts/quantum_gravity/fluctuation_plot.png
 header:
   teaser: /assets/posts/quantum_gravity/fluctuation_plot.png
-alt: Speed of light
 detailed: true
 featured: true
 arxiv:
   - 2106.15290
   - 2109.07850
-description: >
-  High energy astrophysical transients at cosmological distances allow us to
-  test the fundamental assumptions of the standard models of cosmology and
-  particle physics, such as the Weak Equivalence Principle, Lorentz Invariance
-  or the massless nature of the photon. A violation of any of these would result
-  in energy-dependent arrival times for photons from distant sources. We forward
-  model these time delays for gamma ray bursts using the BORG SDSS-III/BOSS
-  reconstruction and compare to data to constrain the quantum gravity energy
-  scale, the mass of the photon, and violations of the Weak Equivalence Principle.
 ---
+
+High energy astrophysical transients at cosmological distances allow us to
+test the fundamental assumptions of the standard models of cosmology and
+particle physics, such as the Weak Equivalence Principle, Lorentz Invariance
+or the massless nature of the photon. A violation of any of these would result
+in energy-dependent arrival times for photons from distant sources. We forward
+model these time delays for gamma ray bursts using the BORG SDSS-III/BOSS
+reconstruction and compare to data to constrain the quantum gravity energy
+scale, the mass of the photon, and violations of the Weak Equivalence Principle.
 
 Overview
 ========
