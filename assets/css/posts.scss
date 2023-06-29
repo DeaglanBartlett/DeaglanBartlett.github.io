@@ -40,26 +40,10 @@
   padding-bottom: 1em;
   padding-top: 1em;
 
-  @media {
-    @include flex();
-  }
-
   .post-row-image {
     width: 300px;
     min-height:100%;
     text-align: center;
-
-    @media {
-      max-width: 100%;
-      margin-left: auto;
-      margin-right: auto;
-    }
-
-    @media {
-      @include prefix((
-        flex: initial 300px
-      ), webkit moz);
-    }
 
     img {
       width:100%;
@@ -70,19 +54,6 @@
     margin-left: 1em;
     @include flex();
     flex-direction: column;
-
-    @media {
-      width: calc(100% - 320px);
-      @include prefix((
-        flex: 1
-      ), webkit moz);
-    }
-
-    @media {
-      width: 90%;
-      margin-left: auto;
-      margin-right: auto;
-    }
 
     h2 {
       margin-top: 0em;
