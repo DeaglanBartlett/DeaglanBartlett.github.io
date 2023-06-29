@@ -113,7 +113,6 @@ $$>100 {\rm \, GeV}$$ should be routine in the future; with more, higher energy 
 probe this energy scale, so there is the tantalising possibility of making the first detection of quantum gravity
 as these limits approach the Planck scale in the near future.
 
-{:.figure.wide}
 ![Quantum gravity constraints compared to the literature]({{'/assets/posts/quantum_gravity/qg_constraint_comparison.png' | relative_url}})
 *Lower limits on the quantum gravity energy scale ($$1 / \ell_{\rm QG}$$) from time delay studies which use multiple astrophysical sources. Our work provides the tightest constraint to date. The dashed vertical line is the Planck energy, and it is expected that the quantum gravity energy scale has approximately this value.*
 
