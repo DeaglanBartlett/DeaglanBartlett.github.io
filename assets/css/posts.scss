@@ -40,7 +40,7 @@
   padding-bottom: 1em;
   padding-top: 1em;
 
-  @media (min-width: $large) {
+  @media {
     @include flex();
   }
 
@@ -49,13 +49,13 @@
     min-height:100%;
     text-align: center;
 
-    @media (max-width: $large) {
+    @media {
       max-width: 100%;
       margin-left: auto;
       margin-right: auto;
     }
 
-    @media (min-width: $large) {
+    @media {
       @include prefix((
         flex: initial 300px
       ), webkit moz);
@@ -71,14 +71,14 @@
     @include flex();
     flex-direction: column;
 
-    @media (min-width: $large) {
+    @media {
       width: calc(100% - 320px);
       @include prefix((
         flex: 1
       ), webkit moz);
     }
 
-    @media (max-width: $large) {
+    @media {
       width: 90%;
       margin-left: auto;
       margin-right: auto;
