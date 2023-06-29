@@ -1,0 +1,119 @@
+---
+---
+
+{% include minimal-mistakes-variables skin=site.minimal_mistakes_skin %}
+
+@mixin flex {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+}
+
+/// Mixin to prefix several properties at once
+/// @author Hugo Giraudel
+/// @param {Map} $declarations - Declarations to prefix
+/// @param {List} $prefixes (()) - List of prefixes to print
+@mixin prefix($declarations, $prefixes: ()) {
+  @each $property, $value in $declarations {
+    @each $prefix in $prefixes {
+      #{'-' + $prefix + '-' + $property}: $value;
+    }
+
+    // Output standard non-prefixed declaration
+    #{$property}: $value;
+  }
+}
+
+#main {
+  margin-bottom:7em;
+}
+
+.post-title {
+  display:block;
+  font-size:20pt;
+  color: $text-color;
+  font-weight:bold;
+}
+
+.post-row {
+  display:block;
+  width:100%;
+  padding-bottom: 1em;
+  padding-top: 1em;
+  border-bottom: 1px solid $dark-gray;
+
+  @media (min-width: $large) {
+    @include flex();
+  }
+
+  .post-row-image {
+    width: 300px;
+    min-height:100%;
+    text-align: center;
+
+    @media (max-width: $large) {
+      max-width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    @media (min-width: $large) {
+      @include prefix((
+        flex: initial 300px
+      ), webkit moz);
+    }
+
+    img {
+      width:100%;
+    }
+  }
+
+  .post-row-text {
+    margin-left: 1em;
+    @include flex();
+    flex-direction: column;
+
+    @media (min-width: $large) {
+      width: calc(100% - 320px);
+      @include prefix((
+        flex: 1
+      ), webkit moz);
+    }
+
+    @media (max-width: $large) {
+      width: 90%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    h2 {
+      margin-top: 0em;
+    }
+
+    .post-row-text-termination {
+      width: 100%;
+      margin-top: auto;
+      margin-bottom: 0;
+      @include flex();
+
+      .post-date {
+        flex: initial;
+        width:50%;
+      }
+
+      .readmore {
+        text-align: right;
+        flex: initial;
+        width:50%;
+      }
+    }
+  }
+
+  &:after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+}
