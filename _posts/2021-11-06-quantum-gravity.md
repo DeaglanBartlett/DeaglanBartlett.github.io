@@ -11,6 +11,15 @@ featured: true
 arxiv:
   - 2106.15290
   - 2109.07850
+description: >
+  High energy astrophysical transients at cosmological distances allow us to
+  test the fundamental assumptions of the standard models of cosmology and
+  particle physics, such as the Weak Equivalence Principle, Lorentz Invariance
+  or the massless nature of the photon. A violation of any of these would result
+  in energy-dependent arrival times for photons from distant sources. We forward
+  model these time delays for gamma ray bursts using the BORG SDSS-III/BOSS
+  reconstruction and compare to data to constrain the quantum gravity energy
+  scale, the mass of the photon, and violations of the Weak Equivalence Principle.
 ---
 
 High energy astrophysical transients at cosmological distances allow us to
