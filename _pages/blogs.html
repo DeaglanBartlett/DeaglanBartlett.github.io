@@ -1,0 +1,46 @@
+---
+layout: default
+title: Blog Posts
+top_nav: true
+permalink: /blog/
+---
+
+{% assign date_format = "%d-%m-%Y" %}
+
+<link rel="stylesheet" href="{{"/css/posts.css" | relative_url}}">
+
+<div id="main" role="main">
+{% for post in site.posts %}
+  <div class="post-row">
+    <div class="post-row-image">
+      {% if post.image_path %}
+        <img class="thumbnail" alt="{{post.alt}}" src="{{post.image_path |relative_url}}" />
+      {% endif %}
+    </div>
+
+    <div class="post-row-text">
+      <h2>
+          {%if post.detailed%}<a href="{{post.url | relative_url}}">{%endif%}
+          {{post.title}}{%if post.detailed%}</a>{%endif%}
+      </h2>
+      <div class="post-description">
+          {{post.description | markdownify}}
+      </div>
+
+      <div class="post-row-text-termination">
+        <div class="post-date">
+		{%for author in post.authors %}{{author}}, {%endfor%}{{ post.date | date: date_format }}
+        </div>
+
+        {%if post.detailed%}
+          <div class="readmore">
+            <a href="{{post.url | relative_url}}" class="btn btn--primary">Read more</a>
+          </div>
+        {%endif%}
+      </div>
+    </div>
+  </div>
+{% endfor %}
+
+</div>
+
