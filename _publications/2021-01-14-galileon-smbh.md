@@ -1,7 +1,7 @@
 ---
 title: "Constraints on Galileons from the positions of supermassive black holes"
 collection: publications
-date: 2023-01-14
+date: 2021-01-14
 venue: 'Phys. Rev. D, 103(2):023523'
 citation: 'D.J. Bartlett, H. Desmond and P.G. Ferreira (2021). &quot;Constraints on Galileons from the positions of supermassive black holes&quot; <i>Phys. Rev. D, 103(2):023523</i>.'
 ---
