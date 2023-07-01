@@ -12,4 +12,4 @@ citation: 'V. Vardanyan and D. J. Bartlett (2023). &quot;Modeling and testing sc
 The non-linear dynamics of scalar fields coupled to matter and gravity can lead to remarkable density-dependent screening effects. In this short review we present the main classes of screening mechanisms, and discuss their tests in laboratory and astrophysical systems. We particularly focus on reviewing numerical and technical aspects involved in modeling the non-linear dynamics of screening. In this review, we focus on tests using laboratory experiments and astrophysical systems, such as stars, galaxies and dark matter halos. 
 
 ![screening](/files/2023-05-30-screening-review-fig.png)
-**Schematic illustration of chameleon (left panel) and symmetron (right panel) mechanisms. In high-density regions chameleons become more massive, while the symmetrons operate due to driving the field value to zero in such environments.
+*Schematic illustration of chameleon (left panel) and symmetron (right panel) mechanisms. In high-density regions chameleons become more massive, while the symmetrons operate due to driving the field value to zero in such environments.*
