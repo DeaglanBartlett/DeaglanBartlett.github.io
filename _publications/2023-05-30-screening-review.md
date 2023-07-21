@@ -2,7 +2,7 @@
 title: "Modeling and testing screening mechanisms in the laboratory and in space"
 collection: publications
 date: 2023-05-30
-venue: 'Universe (Accepted)'
+venue: 'Universe 2023, 9, 340'
 citation: 'V. Vardanyan and D. J. Bartlett (2023). &quot;Modeling and testing screening mechanisms in the laboratory and in space.&quot; <i>Universe 2023, 9, 340</i>.'
 ---
 
