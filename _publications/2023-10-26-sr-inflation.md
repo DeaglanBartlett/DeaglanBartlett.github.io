@@ -1,7 +1,7 @@
 ---
 title: "The Simplest Inflationary Potentials"
 collection: publications
-date: 2023-10-26
+date: 2023-10-25
 venue: 'Physical Review D (Submitted)'
 citation: 'Tomas Sousa, D.J. Bartlett, H. Desmond and P.G. Ferreira (2023). &quot;The Simplest Inflationary Potentials.&quot; <i>arXiv:2310.XXXX</i>.'
 ---
