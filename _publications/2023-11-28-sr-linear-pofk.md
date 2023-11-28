@@ -3,10 +3,10 @@ title: "A precise symbolic emulator of the linear matter power spectrum"
 collection: publications
 date: 2023-11-28
 venue: 'A&A (Submitted)'
-citation: 'D.J. Bartlett, L. Kammerer, G. Kronberger, H. Desmond, P.G. Ferreira, B.D. Wandelt, B. Burlacu, D. Alonso and M. Zennaro (2023). &quot;A precise symbolic emulator of the linear matter power spectrum.&quot; <i>arXiv:2311.XXXXX</i>.'
+citation: 'D.J. Bartlett, L. Kammerer, G. Kronberger, H. Desmond, P.G. Ferreira, B.D. Wandelt, B. Burlacu, D. Alonso and M. Zennaro (2023). &quot;A precise symbolic emulator of the linear matter power spectrum.&quot; <i>arXiv:2311.15865</i>.'
 ---
 
-[Download paper here](https://arxiv.org/abs/2311.XXXXX)
+[Download paper here](https://arxiv.org/abs/2311.15865)
 
 ## Abstract
 *Context:* Computing the matter power spectrum, $P(k)$, as a function of cosmological parameters can be prohibitively slow in cosmological analyses, hence emulating this calculation is desirable. Previous analytic approximations are insufficiently accurate for modern applications, so black-box, uninterpretable emulators are often used.
