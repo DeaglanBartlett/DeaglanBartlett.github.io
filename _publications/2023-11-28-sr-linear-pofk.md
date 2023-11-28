@@ -20,7 +20,7 @@ citation: 'D.J. Bartlett, L. Kammerer, G. Kronberger, H. Desmond, P.G. Ferreira,
 *Conclusions:* It is possible to obtain symbolic approximations to a seemingly complex function at a precision required for current and future cosmological analyses without resorting to deep-learning techniques, thus avoiding their black-box nature and large number of parameters. Our emulator will be usable long after the codes on which numerical approximations are built become outdated.
 
 ## Code
-Python functions with the analytic emulatoes can be [accessed here](https://github.com/DeaglanBartlett/symbolic_pofk).
+Python functions with the analytic emulators can be [accessed here](https://github.com/DeaglanBartlett/symbolic_pofk).
 
 ![planck_fit](/files/2023-11-28-sr-linear-pofk.png)
-*Residuals between the linear matter power spectrum and the Eisenstein & Hu fit without baryons for the Planck 2018 cosmology. We plot the truth computed with CAMB with solid red lines, and the analytic fit obtained in this paper with dashed blue lines. We see that the fit is accurate within 0.3% across all $k$ considered.
+*Residuals between the linear matter power spectrum and the Eisenstein & Hu fit without baryons for the Planck 2018 cosmology. We plot the truth computed with CAMB with solid red lines, and the analytic fit obtained in this paper with dashed blue lines. We see that the fit is accurate within 0.3% across all $k$ considered.*
