@@ -1,5 +1,5 @@
 ---
-title: "syren-halofit: A fast, interpretable, high-precision formula for the $\Lambda$CDM nonlinear matter power spectrum"
+title: "syren-halofit: A fast, interpretable, high-precision formula for the LCDM nonlinear matter power spectrum"
 collection: publications
 date: 2024-02-28
 venue: 'A&A (Submitted)'
