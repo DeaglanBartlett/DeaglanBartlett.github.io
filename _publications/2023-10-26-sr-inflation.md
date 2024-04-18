@@ -1,12 +1,12 @@
 ---
-title: "The Simplest Inflationary Potentials"
+title: "Optimal inflationary potentials"
 collection: publications
 date: 2023-10-26
-venue: 'Physical Review D (Submitted)'
-citation: 'Tomas Sousa, D.J. Bartlett, H. Desmond and P.G. Ferreira (2023). &quot;The Simplest Inflationary Potentials.&quot; <i>arXiv:2310.16786</i>.'
+venue: 'Physical Review D'
+citation: 'Tomas Sousa, D.J. Bartlett, H. Desmond and P.G. Ferreira (2024). &quot;Optimal inflationary potentials.&quot; <i>Phys. Rev. D 109, 083524</i>.'
 ---
 
-[Download paper here](https://arxiv.org/abs/2310.16786)
+[Download paper here](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.083524)
 
 ## Abstract
 Inflation is a highly favoured theory for the early Universe.
