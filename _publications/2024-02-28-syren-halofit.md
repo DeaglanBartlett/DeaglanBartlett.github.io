@@ -1,9 +1,9 @@
 ---
 title: "syren-halofit: A fast, interpretable, high-precision formula for the LCDM nonlinear matter power spectrum"
 collection: publications
-date: 2024-02-28
-venue: 'A&A (Submitted)'
-citation: 'D.J. Bartlett, B.D. Wandelt, M. Zennaro, P.G. Ferreira and H. Desmond (2024). &quot;syren-halofit: A fast, interpretable, high-precision formula for the $\Lambda$CDM nonlinear matter power spectrum.&quot; <i>arXiv:2402.17492</i>.'
+date: 2024-06-05
+venue: 'A&A'
+citation: 'D.J. Bartlett, B.D. Wandelt, M. Zennaro, P.G. Ferreira and H. Desmond (2024). &quot;syren-halofit: A fast, interpretable, high-precision formula for the $\Lambda$CDM nonlinear matter power spectrum.&quot; <i>A&A 686:A150</i>.'
 ---
 
 [Download paper here](https://arxiv.org/abs/2402.17492)
