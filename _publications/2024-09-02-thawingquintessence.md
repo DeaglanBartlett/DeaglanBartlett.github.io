@@ -2,8 +2,8 @@
 title: "Scant evidence for thawing quintessence"
 collection: publications
 date: 2024-09-02
-venue: 'arXiv preprint'
-citation: 'W.J. Wolf, C. García-García, D.J. Bartlett and P.G. Ferreira (2024). &quot;Scant evidence for thawing quintessence.&quot; <i>arXiv:2408.17318</i>.'
+venue: 'Phys. Rev. D, 110(8):083528'
+citation: 'W.J. Wolf, C. García-García, D.J. Bartlett and P.G. Ferreira (2024). &quot;Scant evidence for thawing quintessence.&quot; <i>Phys. Rev. D, 110(8):083528</i>.'
 ---
 
 [Download paper here](https://arxiv.org/abs/2408.17318)
