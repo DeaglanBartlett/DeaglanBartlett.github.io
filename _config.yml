@@ -57,7 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "DeaglanBartlett"
+  username               : 
+bluesky:
+  username               : "deaglanbartlett"
 facebook:
   username               :
   app_id                 :
