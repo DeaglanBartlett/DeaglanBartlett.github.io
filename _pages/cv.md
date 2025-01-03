@@ -81,7 +81,7 @@ Service
 ======
 
 Collaborations
-* Referee for ApJ, IEEE, JCAP, PRL, Phys. Rev. D, The Open Journal of Astrophysics
+* Referee for A&A, ApJ, IEEE TAI, IEEE TEVC, JCAP, PRL, PRD, The Open Journal of Astrophysics, DiRAC
 * [Learning the Universe](https://www.learning-the-universe.org/) 2022-Present
 * [Aquila Consortium](https://www.aquila-consortium.org/) 2021-Present
   
