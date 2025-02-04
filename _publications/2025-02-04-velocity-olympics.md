@@ -1,7 +1,7 @@
 ---
 title: "The Velocity Field Olympics: Assessing velocity field reconstructions with direct distance tracers" 
 collection: publications
-date: 2024-02-04
+date: 2025-02-04
 venue: 'MNRAS (Submitted)'
 citation: 'R. Stiskalek, H. Desmond, J. Devriendt, A. Slyz, G. Lavaux, M.J. Hudson, D.J. Bartlett, and H.M. Courtois. (2025). &quot;The Velocity Field Olympics: Assessing velocity field reconstructions with direct distance tracers.&quot; <i>arXiv:2502.00121</i>.'
 ---
@@ -19,7 +19,7 @@ Additionally, we present calibrated bulk flow curves predicted by the reconstruc
 This result is in significant tension with Planck but agrees with other peculiar velocity studies.
 
 ![lnZ_comparison](/files/2025-02-04-velocity-olympics.png)
-*Differences in logarithmic evidences $Z$ from our flow validation model for various local Universe reconstructions (shown on the $x$-axis, see~\cref{tab:reconstructions}), compared against peculiar velocity samples (individual panels, see~\cref{tab:pv_samples}).
+*Differences in logarithmic evidences $Z$ from our flow validation model for various local Universe reconstructions (shown on the $x$-axis, see Table 1), compared against peculiar velocity samples (individual panels, see Table 2).
 Higher bars indicate a preferred model, and a bar of zero height indicates the reference (least successful) model. 
 The logarithmic evidences are normalised with respect to the reference model as only relative differences are meaningful. Solid bars show evidences using the highest available resolution for each model, while hatched bars show evidences when all fields are smoothed to the resolution of $7.8\,h^{-1} \, {\rm Mpc}$, twice that of Courtois et al. (2023). 
 Overall, CSIBORG2 is the preferred model while the CosmicFlows-based reconstructions (Sorce 2018 and Courtois et al. 2023) are disfavoured. 
