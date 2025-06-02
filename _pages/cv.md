@@ -27,7 +27,8 @@ cosmological hydrodynamical simulations.
 Employment
 ======
 
-* Postdoctoral Fellow, CNRS & Sorbonne Université, Institut d’Astrophysique de Paris, 2022-Present
+* Eric and Wendy Schmidt AI in Science Postdoctoral Fellow, Department of Physics, University of Oxford, 2025-present
+* Postdoctoral Fellow, CNRS & Sorbonne Université, Institut d’Astrophysique de Paris, 2022-2025
 * Covid Response Officer, Oriel College, University of Oxford, 2021-2022
 * Graduate Teaching and Research Scholar, Oriel College, University of Oxford, 2020-2022
 
@@ -46,6 +47,10 @@ Education
 Awards and Scholarships
 ======
 
+* International Astronomical Union (IAU) The Gruber Foundation (TGF) Fellowship in Astrophysics, 2025--2026
+* The Beecroft Fellowship in Cosmology, University of Oxford, 2025 (postponed until 2027)
+* The Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship at Oxford, University of Oxford, 2025--2027
+* Best Astrophysics/Cosmology poster, PHYSTAT - Statistics meets Machine Learning \hfill 2024
 * Graduate Teaching and Research Scholar, Oriel College, Oxford 2020--2022
 * Senior Scholar, Trinity College, Cambridge 2016--19
 * Bronze Medal, 46th International Physics Olympiad, Mumbai 2015
@@ -81,7 +86,8 @@ Service
 ======
 
 Collaborations
-* Referee for A&A, ApJ, IEEE TAI, IEEE TEVC, JCAP, PRL, PRD, The Open Journal of Astrophysics, DiRAC
+* Organiser, The Royal Society Discussion Meeting on ``Symbolic Regression in the Physical Sciences'', April 2025
+* Referee for A&A, ApJ, IEEE TAI, IEEE TEVC, JCAP, PRL, PRD, PLB, The Open Journal of Astrophysics, DiRAC
 * [Learning the Universe](https://www.learning-the-universe.org/) 2022-Present
 * [Aquila Consortium](https://www.aquila-consortium.org/) 2021-Present
   
