@@ -9,7 +9,8 @@ redirect_from:
 
 I am an [Eric and Wendy Schmidt AI in Science Postdoctoral Fellow](https://saiis.web.ox.ac.uk/home) in the Department of Physics at The Univeristy of Oxford,
 where I work on projects at the border of artificial intelligence and Bayesian inference problems, within the framework of applications to cosmology.
-I also hold the International Astronomical Union (IAU) [The Gruber Foundation (TGF) Fellowship](https://www.iau.org/Iau/Iau/Science/Grants-and-Prizes/Gruber-Fellowship.aspx) in Astrophysics for 2025/26.
+I also hold the International Astronomical Union (IAU) [The Gruber Foundation (TGF) Fellowship](https://www.iau.org/Iau/Iau/Science/Grants-and-Prizes/Gruber-Fellowship.aspx) in Astrophysics for 2025/26,
+and a Nicholas Kurti Junior Research Fellowship at Brasenose College, Oxford for 2025-2028.
 
 I am interested in statistical and machine learning methodology in astrophysics and cosmology, Bayesian large-scale structure inference, field-level inference, and probing dark energy and constraining dark matter with astronomical surveys.
 I also work on accelerating cosmological simulations using machine learning methods and methodological improvements and 

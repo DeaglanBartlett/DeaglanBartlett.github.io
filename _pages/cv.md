@@ -47,6 +47,7 @@ Education
 Awards and Scholarships
 ======
 
+* Nicholas Kurti Junior Research Fellowship, Brasenose College, University of Oxford, 2025--2028
 * International Astronomical Union (IAU) The Gruber Foundation (TGF) Fellowship in Astrophysics, 2025--2026
 * The Beecroft Fellowship in Cosmology, University of Oxford, 2025 (postponed until 2027)
 * The Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship at Oxford, University of Oxford, 2025--2027
