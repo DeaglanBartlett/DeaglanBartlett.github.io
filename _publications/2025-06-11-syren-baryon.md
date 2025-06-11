@@ -22,5 +22,5 @@ citation: 'L. Kammerer, D.J. Bartlett, G. Kronberger, H. Desmond and P.G. Ferrei
 ## Code
 Implementations of the analytic emulators can be [accessed here](https://github.com/DeaglanBartlett/symbolic_pofk).
 
-![example_pk_suppression](/files/2026-05-11-syren-baryon.png)
+![example_pk_suppression](/files/2025-06-11-syren-baryon.png)
 **Predicted baryonic suppression of the matter power spectrum, $S$, as a function of wavenumber, $k$, at redshift zero for four randomly sampled hydrodynamical simulations at $z=0$. Our predictions are shown as solid lines, and the shaded regions give the estimated error on these. The dashed lines give the true values measured from the simulations, which are seen to be consistent with our predictions.
