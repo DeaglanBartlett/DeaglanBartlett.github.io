@@ -1,9 +1,9 @@
 ---
 title: "syren-baryon: Analytic emulators for the impact of baryons on the matter power spectrum"
 collection: publications
-date: 2025-06-11
-venue: 'A&A (Submitted)'
-citation: 'L. Kammerer, D.J. Bartlett, G. Kronberger, H. Desmond and P.G. Ferreira (2025). &quot;syren-baryon: Analytic emulators for the impact of baryons on the matter power spectrum.&quot; <i>arXiv:2506.08783</i>.'
+date: 2025-09-26
+venue: 'A&A'
+citation: 'L. Kammerer, D.J. Bartlett, G. Kronberger, H. Desmond and P.G. Ferreira (2025). &quot;syren-baryon: Analytic emulators for the impact of baryons on the matter power spectrum.&quot; <i>A&A, 701, A284 </i>.'
 ---
 
 [Download paper here](https://arxiv.org/abs/2506.08783)
