@@ -2,7 +2,7 @@
 title: "Symbolic Emulators for Cosmology: Accelerating Cosmological Analyses Without Sacrificing Precision"
 collection: publications
 date: 2025-10-22
-venue: 'Philosophical Transactions A (Submitted)'
+venue: 'Philosophical Transactions A (Accepted)'
 citation: 'D.J. Bartlett, and S. Pandey (2025). &quot;Symbolic Emulators for Cosmology: Accelerating Cosmological Analyses Without Sacrificing Precision.&quot; <i>arXiv:2510.18749</i>.'
 ---
 
