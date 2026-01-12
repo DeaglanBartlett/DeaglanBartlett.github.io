@@ -78,7 +78,7 @@ Teaching
 
 **College Lecturer** - Brasenose College, University of Oxford (2025-present)
 * Courses tutored: 
-  * B2 Symmetry and Relativity (3\textsuperscript{rd} year Physics); 
+  * B2 Symmetry and Relativity (3rd year Physics); 
 * Ran tutorials, marked problem sheets, set and marked mock examinations.
 * Jointly ran physics interview for selection of undergraduate students in Physics and Physics and Philosophy. Wrote and delivered questions for these interviews and assessed candidates' performance.
 
