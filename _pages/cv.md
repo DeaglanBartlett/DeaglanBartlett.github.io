@@ -47,6 +47,7 @@ Education
 Awards and Scholarships
 ======
 
+* Royal Astronomical Society Early Career Award for Astronomy, 2026
 * Nicholas Kurti Junior Research Fellowship, Brasenose College, University of Oxford, 2025--2028
 * International Astronomical Union (IAU) The Gruber Foundation (TGF) Fellowship in Astrophysics, 2025--2026
 * The Beecroft Fellowship in Cosmology, University of Oxford, 2025 (postponed until 2027)
@@ -71,6 +72,15 @@ Talks
   
 Teaching
 ======
+
+**Tutor - Stanford in Oxford** - University of Oxford and Stanford University (2025)
+* Designed and delivered a tailored term-long Astrophysics tutorial programme for a Stanford University student on exchange at Oxford.
+
+**College Lecturer** - Brasenose College, University of Oxford (2025-present)
+* Courses tutored: 
+  * B2 Symmetry and Relativity (3\textsuperscript{rd} year Physics); 
+* Ran tutorials, marked problem sheets, set and marked mock examinations.
+* Jointly ran physics interview for selection of undergraduate students in Physics and Physics and Philosophy. Wrote and delivered questions for these interviews and assessed candidates' performance.
 
 **Graduate Teaching and Research Scholar** - Oriel College, University of Oxford (2020-2022)
 * Courses tutored:
