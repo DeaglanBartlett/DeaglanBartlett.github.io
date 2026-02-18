@@ -47,6 +47,7 @@ Education
 Awards and Scholarships
 ======
 
+* Fellow of the Royal Astronomical Society (FRAS), 2026--
 * Royal Astronomical Society Early Career Award for Astronomy, 2026
 * Nicholas Kurti Junior Research Fellowship, Brasenose College, University of Oxford, 2025--2028
 * International Astronomical Union (IAU) The Gruber Foundation (TGF) Fellowship in Astrophysics, 2025--2026
