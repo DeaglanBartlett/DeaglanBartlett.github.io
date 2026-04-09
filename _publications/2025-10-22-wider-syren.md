@@ -2,11 +2,11 @@
 title: "Symbolic Emulators for Cosmology: Accelerating Cosmological Analyses Without Sacrificing Precision"
 collection: publications
 date: 2025-10-22
-venue: 'Philosophical Transactions A (Accepted)'
-citation: 'D.J. Bartlett, and S. Pandey (2025). &quot;Symbolic Emulators for Cosmology: Accelerating Cosmological Analyses Without Sacrificing Precision.&quot; <i>arXiv:2510.18749</i>.'
+venue: 'Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences'
+citation: 'D.J. Bartlett, and S. Pandey (2026). &quot;Symbolic Emulators for Cosmology: Accelerating Cosmological Analyses Without Sacrificing Precision.&quot; <i>Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 384(2317):20240585, 04 2026. ISSN 1364-503X</i>.'
 ---
 
-[Download paper here](https://arxiv.org/abs/2510.18749)
+[Download paper here](https://doi.org/10.1098/rsta.2024.0585)
 
 ## Abstract
 In cosmology, emulators play a crucial role by providing fast and accurate predictions of complex physical models, enabling efficient exploration of high-dimensional parameter spaces that would be computationally prohibitive with direct numerical simulations. Symbolic emulators have emerged as promising alternatives to numerical approaches, delivering comparable accuracy with significantly faster evaluation times. While previous symbolic emulators were limited to relatively narrow prior ranges, we expand these to cover the parameter space relevant for current cosmological analyses. 
