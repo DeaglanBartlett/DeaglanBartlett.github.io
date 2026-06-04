@@ -1,9 +1,9 @@
 ---
 title: "KiDS-Legacy: WIMP dark matter constraints from the cross-correlation of weak lensing and Fermi-LAT gamma rays"
 collection: publications
-date: 2026-01-19
-venue: 'A&A (Submitted)'
-citation: 'S. Zhang, H. Hildebrandt, Z. Yan, T. Tröster, A. Aravinthan, M. Asgari, D.J. Bartlett, M. Bilicki, D. Elsässer, C. Heymans, B. Joachimi, L. Moscardini, D. Neumann, A. Paopiamsap, R. Reischke, and B. Stölzner (2026). &quot;KiDS-Legacy: WIMP dark matter constraints from the cross-correlation of weak lensing and Fermi-LAT gamma rays.&quot; <i>arXiv:2601.11223</i>.'
+date: 2026-06-03
+venue: 'A&A'
+citation: 'S. Zhang, H. Hildebrandt, Z. Yan, T. Tröster, A. Aravinthan, M. Asgari, D.J. Bartlett, M. Bilicki, D. Elsässer, C. Heymans, B. Joachimi, L. Moscardini, D. Neumann, A. Paopiamsap, R. Reischke, and B. Stölzner (2026). &quot;KiDS-Legacy: WIMP dark matter constraints from the cross-correlation of weak lensing and Fermi-LAT gamma rays.&quot; <i>A&A, 710, A80</i>.'
 ---
 
 [Download paper here](https://arxiv.org/abs/2601.11223)
