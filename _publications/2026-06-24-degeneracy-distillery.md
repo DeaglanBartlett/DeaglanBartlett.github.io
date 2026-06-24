@@ -3,7 +3,7 @@ title: "The Degeneracy Distillery"
 collection: publications
 date: 2026-06-24
 venue: 'Submitted'
-citation: T.L. Makinen, D.J. Bartlett, N. Jeffrey, B.D. Wandelt (2026). &quot;The Degeneracy Distillery.&quot; <i>arXiv:2606.23838</i>.'
+citation: T.L. Makinen, D.J. Bartlett, N. Jeffrey, B.D. Wandelt (2026). &quot;The Degeneracy Distillery.&quot; <i>arXiv:2606.23838</i>.
 ---
 
 [Download paper here](https://arxiv.org/abs/2606.23838)
