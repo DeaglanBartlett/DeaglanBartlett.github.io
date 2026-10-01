@@ -107,6 +107,27 @@
   }
 }
 
+.cv-publications,
+.cv-talks {
+  li {
+    margin-bottom: 0.15em;
+  }
+
+  .archive__item-title {
+    margin-top: 0;
+    margin-bottom: 0.15em;
+  }
+
+  .archive__item-excerpt {
+    margin-bottom: 0.15em;
+  }
+
+  p {
+    margin-top: 0;
+    margin-bottom: 0.15em;
+  }
+}
+
 
 /*
    Grid view

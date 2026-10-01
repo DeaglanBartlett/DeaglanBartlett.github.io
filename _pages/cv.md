@@ -27,7 +27,9 @@ cosmological hydrodynamical simulations.
 Employment
 ======
 
-* Eric and Wendy Schmidt AI in Science Postdoctoral Fellow, Department of Physics, University of Oxford, 2025-present
+* Career Development Fellowship in Astrophysics, Christ Church, University of Oxford, 2026-present
+* College Lecturer, Brasenose College, University of Oxford, 2025-26
+* Eric and Wendy Schmidt AI in Science Postdoctoral Fellow, Department of Physics, University of Oxford, 2025-26
 * Postdoctoral Fellow, CNRS & Sorbonne Université, Institut d’Astrophysique de Paris, 2022-2025
 * Covid Response Officer, Oriel College, University of Oxford, 2021-2022
 * Graduate Teaching and Research Scholar, Oriel College, University of Oxford, 2020-2022
@@ -47,8 +49,9 @@ Education
 Awards and Scholarships
 ======
 
-* Fellow of the Royal Astronomical Society (FRAS), 2026--
 * Royal Astronomical Society Early Career Award for Astronomy, 2026
+* Career Development Fellowship in Astrophysics, Christ Church, University of Oxford, 2026--2031
+* Fellow of the Royal Astronomical Society (FRAS), 2026--
 * Nicholas Kurti Junior Research Fellowship, Brasenose College, University of Oxford, 2025--2028
 * International Astronomical Union (IAU) The Gruber Foundation (TGF) Fellowship in Astrophysics, 2025--2026
 * The Beecroft Fellowship in Cosmology, University of Oxford, 2025 (postponed until 2027)
@@ -61,23 +64,28 @@ Awards and Scholarships
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ol class="cv-publications">{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ol>
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul class="cv-talks">{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
 ======
 
+**Assessments**  - University of Oxford (2025-present)
+* MPhys expert assessor for Astrophysics projects 
+* MMathPhys dissertation assessor 
+* DPhil Confirmation of Status Reviewer
+
 **Tutor - Stanford in Oxford** - University of Oxford and Stanford University (2025)
 * Designed and delivered a tailored term-long Astrophysics tutorial programme for a Stanford University student on exchange at Oxford.
 
-**College Lecturer** - Brasenose College, University of Oxford (2025-present)
+**College Lecturer** - Brasenose College, University of Oxford (2025-2026)
 * Courses tutored: 
   * B2 Symmetry and Relativity (3rd year Physics); 
 * Ran tutorials, marked problem sheets, set and marked mock examinations.
@@ -92,14 +100,14 @@ Teaching
 
 **British Team Coach** - British Physics Olympiad (2017-present)
 * Led sessions on a variety of topics. Planning content, writing questions and creating resources.
-* No student has failed to achieve a medal during the years I have been involved with the team.
 
 Service
 ======
 
 Collaborations
 * Organiser, The Royal Society Discussion Meeting on ``Symbolic Regression in the Physical Sciences'', April 2025
-* Referee for A&A, ApJ, IEEE TAI, IEEE TEVC, JCAP, PRL, PRD, PLB, The Open Journal of Astrophysics, DiRAC
+* Journal Referee for A\&A, ApJ, IEEE TAI, IEEE TEVC, JCAP, Nature Communications, NeurIPS, PRL, PRD, PLB, The Open Journal of Astrophysics,  Machine Learning: Science and Technology.
+* Grant Referee for DiRAC, ERC, UKRI
 * [Learning the Universe](https://www.learning-the-universe.org/) 2022-Present
 * [Aquila Consortium](https://www.aquila-consortium.org/) 2021-Present
   
