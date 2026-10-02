@@ -14,6 +14,17 @@ var breaks = [];
 
 function updateNav() {
 
+  // On phones, keep only the site title visible and put every menu item in the dropdown
+  if($(window).width() < 600) {
+    while($vlinks.children().length > 1) {
+      breaks.push($vlinks.width());
+      $vlinks.children().last().prependTo($hlinks);
+    }
+    $btn.removeClass('hidden');
+    $btn.attr("count", breaks.length);
+    return;
+  }
+
   var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
 
   // The visible list is overflowing the nav
@@ -51,8 +62,8 @@ function updateNav() {
   // Keep counter updated
   $btn.attr("count", breaks.length);
 
-  // Recur if the visible list is still overflowing the nav
-  if($vlinks.width() > availableSpace) {
+  // Recur if the visible list is still overflowing the nav, or more items can be restored
+  if($vlinks.width() > availableSpace || (breaks.length && availableSpace > breaks[breaks.length-1])) {
     updateNav();
   }
 
